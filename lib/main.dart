@@ -9,7 +9,7 @@ class FriendlychatApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: "Friendlychat",
+      title: "Friendlychat Custom Tab",
       debugShowCheckedModeBanner: false,
       home: new ChatScreen(),
     );
